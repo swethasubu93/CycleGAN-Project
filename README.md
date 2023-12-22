@@ -15,6 +15,8 @@ The following are componenets of Cycle GAN:
 
 
 ### Training process
+[Jupyter Notebook](https://github.com/swethasubu93/CycleGAN-Project/blob/main/CycleGAN.ipynb)
+
 To train the CycleGAN model, we need paired datasets from the source (domain A) and target (domain B). During training, the generators aim to minimize the difference between the generated images and real images in both domains, while the discriminators attempt to distinguish between real and generated images. Training typically involves a substantial number of epochs to achieve desirable results. 
 
 ### Results
